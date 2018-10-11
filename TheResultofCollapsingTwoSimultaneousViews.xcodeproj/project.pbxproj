@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		07FEC1F32166987B00DF0764 /* TheResultofCollapsingTwoSimultaneousViews.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheResultofCollapsingTwoSimultaneousViews.saver; sourceTree = BUILT_PRODUCTS_DIR; };
+		07FEC1F32166987B00DF0764 /* The Result of Collapsing Two Simultaneous Views.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "The Result of Collapsing Two Simultaneous Views.saver"; sourceTree = BUILT_PRODUCTS_DIR; };
 		07FEC1F62166987B00DF0764 /* TheResultofCollapsingTwoSimultaneousViewsView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TheResultofCollapsingTwoSimultaneousViewsView.h; sourceTree = "<group>"; };
 		07FEC1F82166987B00DF0764 /* TheResultofCollapsingTwoSimultaneousViewsView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TheResultofCollapsingTwoSimultaneousViewsView.m; sourceTree = "<group>"; };
 		07FEC1FA2166987B00DF0764 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		07FEC1F42166987B00DF0764 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				07FEC1F32166987B00DF0764 /* TheResultofCollapsingTwoSimultaneousViews.saver */,
+				07FEC1F32166987B00DF0764 /* The Result of Collapsing Two Simultaneous Views.saver */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		07FEC1F22166987B00DF0764 /* TheResultofCollapsingTwoSimultaneousViews */ = {
+		07FEC1F22166987B00DF0764 /* The Result of Collapsing Two Simultaneous Views */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 07FEC1FD2166987B00DF0764 /* Build configuration list for PBXNativeTarget "TheResultofCollapsingTwoSimultaneousViews" */;
+			buildConfigurationList = 07FEC1FD2166987B00DF0764 /* Build configuration list for PBXNativeTarget "The Result of Collapsing Two Simultaneous Views" */;
 			buildPhases = (
 				07FEC1EE2166987B00DF0764 /* Headers */,
 				07FEC1EF2166987B00DF0764 /* Sources */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = TheResultofCollapsingTwoSimultaneousViews;
+			name = "The Result of Collapsing Two Simultaneous Views";
 			productName = TheResultofCollapsingTwoSimultaneousViews;
-			productReference = 07FEC1F32166987B00DF0764 /* TheResultofCollapsingTwoSimultaneousViews.saver */;
+			productReference = 07FEC1F32166987B00DF0764 /* The Result of Collapsing Two Simultaneous Views.saver */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -122,7 +122,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				07FEC1F22166987B00DF0764 /* TheResultofCollapsingTwoSimultaneousViews */,
+				07FEC1F22166987B00DF0764 /* The Result of Collapsing Two Simultaneous Views */,
 			);
 		};
 /* End PBXProject section */
@@ -271,7 +271,7 @@
 				DEVELOPMENT_TEAM = 2T5W462SEL;
 				INFOPLIST_FILE = TheResultofCollapsingTwoSimultaneousViews/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_BUNDLE_IDENTIFIER = "o-r-g.TheResultofCollapsingTwoSimultaneousViews";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = saver;
@@ -286,7 +286,7 @@
 				DEVELOPMENT_TEAM = 2T5W462SEL;
 				INFOPLIST_FILE = TheResultofCollapsingTwoSimultaneousViews/Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_BUNDLE_IDENTIFIER = "o-r-g.TheResultofCollapsingTwoSimultaneousViews";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = saver;
@@ -305,7 +305,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		07FEC1FD2166987B00DF0764 /* Build configuration list for PBXNativeTarget "TheResultofCollapsingTwoSimultaneousViews" */ = {
+		07FEC1FD2166987B00DF0764 /* Build configuration list for PBXNativeTarget "The Result of Collapsing Two Simultaneous Views" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				07FEC1FE2166987B00DF0764 /* Debug */,
